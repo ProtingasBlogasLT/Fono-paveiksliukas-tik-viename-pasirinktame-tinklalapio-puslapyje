@@ -1,0 +1,10 @@
+body {
+    background-color: black;
+    color: white;
+    font-family: Calibri;
+}
+
+body#galerija {
+    background-image: url("bg.jpeg");
+    /*background-image: url("http://saitas.lt/pav.jpeg");*/
+}
